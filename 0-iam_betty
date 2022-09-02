@@ -1,1 +1,2 @@
-#!/bin/bash \msu betty
+#!/bin/bash 
+su betty
