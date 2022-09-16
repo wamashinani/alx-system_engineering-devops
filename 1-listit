@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash
 0x00-shell_basics
 1-listit
 README.md
+=======
+ls
+>>>>>>> bd1e03db1dcaca8ca8ddb83c113a3c4086f3ba3a
