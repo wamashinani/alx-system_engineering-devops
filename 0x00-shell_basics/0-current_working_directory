@@ -1,5 +1,9 @@
 #!/bin/bash
 pwd
+<<<<<<< HEAD
 0-current_working_directorselect  in ; do
     $
 done
+=======
+
+>>>>>>> c02a9a24f3e27162e3a5583a29beb666d3df74b1
