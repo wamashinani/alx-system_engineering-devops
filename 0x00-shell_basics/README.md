@@ -1,2 +1,1 @@
-task 0 where am I?
-ls -l
+Display current directory contents in a long format
